@@ -1,5 +1,5 @@
 # Samir zade 
-# @samirzade002
+# @samirzade001
 
 print("(--------------- Welcome to computer quiz!!----------------)")
 User_asking = input("Do you want to play? ")
